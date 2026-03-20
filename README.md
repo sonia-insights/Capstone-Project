@@ -5,9 +5,13 @@ This capstone project focuses on analyzing Blinkit sales data to uncover busines
 ### Project Objectives :
 
 -Analyze sales performance across outlets
+
 -Identify top-performing products and categories
+
 -Understand customer purchasing behavior
+
 -Evaluate outlet size and location impact on sales
+
 -Build interactive dashboards for business insights
 
  ### Tools & Technologies Used :
@@ -22,12 +26,19 @@ Power BI- Dashboard & visualization
 The dataset contains Blinkit retail sales information including:
 
 -Item Identifier
+
 -Item Type
+
 -Outlet Location Type
+
 -Outlet Size
+
 -Sales Amount
+
 -Ratings
+
 -Item Visibility
+
 -Fat Content
 
  ### Analysis Performed:
@@ -68,6 +79,6 @@ Sonia Saini
 Aspiring Data Analyst
 
  ### Future Improvements
-Predictive Sales Modeling using Machine Learning
-Automated ETL pipeline
-Real-time dashboard integration
+Predictive Sales Modeling using Machine Learning.
+Automated ETL pipeline.
+Real-time dashboard integration.
